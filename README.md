@@ -12,3 +12,5 @@ Antes de la prueba automatizada
 Despues de la prueba automatizada
 ![image](https://github.com/user-attachments/assets/2074eb36-2fcd-484e-9537-379f86c1e4bf)
 
+Aqui esta el video de selenium o del programa excuseme por la calidad es que no tenia mi computadora en mano 
+https://youtu.be/81QQ-Orwlhg 
